@@ -1,4 +1,4 @@
-# Chocolate_Company
+# 🍫 Chocolate Company Dashboard – Confectionery Insight Project
 # Power BI Dashboard – Analysis
 
 This project is a Power BI Dashboard developed as part of a college assessment to analyze sales, Marketing, Brand and Supply Chain performance data over multiple regions and categories.
