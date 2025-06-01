@@ -12,7 +12,9 @@ To develop a comprehensive reporting solution using Power BI that enables busine
 
 ## 📁 Project Files
 - `Chocolate Company - Confectionery Insight Project.pbix`: Full report with all dashboards
-- `PROG8630-Project Report_Gen Z.pdf`: Final academic report
+- `Confectionery Insight Project.pdf`:  The full dashboard view in PDF format (for a quick overview of the dashboard without any tools required)
+- `Project Dataset.xlsx`: Proceed Mock data for creating Dashboards
+- `Final Project Report.pdf`: Final academic report
 - `Project Proposal.docx`: Initial proposal and planning document
 
 ## 📊 Dashboards Overview
